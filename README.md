@@ -16,6 +16,6 @@
 
 ![Ruwan's github stats](https://github-readme-stats.vercel.app/api?username=ruwanpathirana&count_private=true&show_icons=true&theme=vision-friendly-dark)
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ruwanpathirana&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ruwanpathirana/github-readme-activity-graph)
+<!---[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ruwanpathirana&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ruwanpathirana/github-readme-activity-graph)--->
 
-</div>
+
