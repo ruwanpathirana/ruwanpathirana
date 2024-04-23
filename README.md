@@ -10,17 +10,8 @@
 <br/>
 </div>
 
-<table style="border: none;">
-  <tr>
-    <td>
-      [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruwanpathirana&layout=compact&theme=vision-friendly-dark)](https://github.com/ruwanpathirana/github-readme-stats)
-    </td>
-    <td>
-      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruwanpathirana&theme=dark&background=000000)](https://git.io/streak-stats)
-    </td>
-  </tr>
-</table>
-
+| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruwanpathirana&layout=compact&theme=vision-friendly-dark)](https://github.com/ruwanpathirana/github-readme-stats) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruwanpathirana&theme=dark&background=000000)](https://git.io/streak-stats) |
+|---|---|
 
 
 <!---![Ruwan's github stats](https://github-readme-stats.vercel.app/api?username=ruwanpathirana&count_private=true&show_icons=true&theme=vision-friendly-dark)--->
