@@ -11,7 +11,7 @@
 [![Youtube1 Badge](https://img.shields.io/badge/Ceylonstats-Profile-informational?style=flat&logo=youtube&logoColor=FF0000&color=0D76A8)](https://www.youtube.com/@CeylonStats/)
 [![Youtube2 Badge](https://img.shields.io/badge/PathiranaAcademy-Profile-informational?style=flat&logo=youtube&logoColor=FF0000&color=0D76A8)](https://www.youtube.com/@PathiranaAcademy/)
 
-[![user:19273724's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/19273724?theme=dark&website=false&location=false)](https://stackoverflow.com/users/19273724/ruwan-pathirana)
+<!---![![user:19273724's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/19273724?theme=dark&website=false&location=false)](https://stackoverflow.com/users/19273724/ruwan-pathirana)--->
 
 ### <sup> GITHUB STATS </sup>
 <br/>
