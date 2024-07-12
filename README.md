@@ -1,4 +1,10 @@
-![](./assets/header.png)
+<!---!![](./assets/header.png)--->
+
+# Hi, I'm [Your Name] 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+[Your+Name];Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22"></a>
+</p>
 
 <p align="center"> 
   Visitor count<br>
