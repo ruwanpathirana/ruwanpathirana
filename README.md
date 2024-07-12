@@ -1,9 +1,7 @@
 <!---!![](./assets/header.png)--->
 
-# Hi, I'm Ruwan Pathirana 👋
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+[Ruwan Pathirana];Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22"></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Ruwan Pathirana;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22"></a>
 </p>
 
 <p align="center"> 
