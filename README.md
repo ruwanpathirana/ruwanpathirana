@@ -37,12 +37,7 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,tensorflow,python,r,mongodb,git,js,html,css,d3&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,tensorflow,python,r,mongodb,git,js,html,css,d3,bitbucket,ae,ps,xd&theme=dark" />
 </p>
 
 ---
