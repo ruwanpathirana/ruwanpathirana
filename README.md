@@ -1,32 +1,63 @@
-<!---!![](./assets/header.png)--->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Ruwan+Pathirana;Data+%26+AI+Engineer;Building+Smart+Analytics+Solutions" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Ruwan Pathirana;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=440&height=45&color=green&vCenter=true&size=22"></a>
+  <img src="https://img.shields.io/github/followers/ruwanpathirana?style=for-the-badge&logo=github&color=0D76A8" />
+  <img src="https://img.shields.io/github/stars/ruwanpathirana?style=for-the-badge&logo=github&color=0D76A8" />
 </p>
 
-<p align="center"> 
-  Visitor count<br>
+---
+
+### 👨‍💻 About Me
+- 💡 Associate Consultant – **Data & AI**
+- 📊 Working on **Analytics, Fabric, Databricks, Delta Lake**
+- 🤖 Building **AI Assistants & Chatbots**
+- ☁️ Cloud-first mindset
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ruwanpathirana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/19273724/ruwan-pathirana/" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@CeylonStats" target="_blank">
+    <img src="https://img.shields.io/badge/CeylonStats-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@PathiranaAcademy" target="_blank">
+    <img src="https://img.shields.io/badge/PathiranaAcademy-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,azure,gcp,git,github,docker,linux,js&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ruwanpathirana&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ruwanpathirana&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruwanpathirana&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://profile-counter.glitch.me/ruwanpathirana/count.svg" />
 </p>
 
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=0A66C2&color=0D76A8)](https://www.linkedin.com/in/ruwanpathirana/)
-[![StackOverflow Badge](https://img.shields.io/badge/Stackoverflow-Profile-informational?style=flat&logo=stackoverflow&logoColor=F58025&color=0D76A8)](https://stackoverflow.com/users/19273724/ruwan-pathirana/)
-[![Youtube1 Badge](https://img.shields.io/badge/Ceylonstats-Profile-informational?style=flat&logo=youtube&logoColor=FF0000&color=0D76A8)](https://www.youtube.com/@CeylonStats/)
-[![Youtube2 Badge](https://img.shields.io/badge/PathiranaAcademy-Profile-informational?style=flat&logo=youtube&logoColor=FF0000&color=0D76A8)](https://www.youtube.com/@PathiranaAcademy/)
-
-<!---![![user:19273724's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/19273724?theme=dark&website=false&location=false)](https://stackoverflow.com/users/19273724/ruwan-pathirana)--->
-
-### <sup> GITHUB STATS </sup>
-<br/>
-</div>
-
-| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruwanpathirana&layout=compact&theme=vision-friendly-dark)](https://github.com/ruwanpathirana/github-readme-stats) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruwanpathirana&theme=dark&background=000000)](https://git.io/streak-stats) |
-|---|---|
-
-
-<!---![Ruwan's github stats](https://github-readme-stats.vercel.app/api?username=ruwanpathirana&count_private=true&show_icons=true&theme=vision-friendly-dark)--->
-
-
-
-
+<p align="center">
+  ⚡ <i>Turning data into decisions</i>
+</p>
