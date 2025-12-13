@@ -37,7 +37,7 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,azure,TensorFlow-Light,git,github,docker,linux,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,azure,tensorFlow,git,github,docker,linux,js&theme=dark" />
 </p>
 
 ---
