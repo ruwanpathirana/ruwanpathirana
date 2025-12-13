@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Ruwan+Pathirana;Data+%26+AI+Engineer;Building+Smart+Analytics+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Ruwan+Pathirana" />
 </h1>
 
 <p align="center">
@@ -11,8 +11,8 @@
 
 ### 👨‍💻 About Me
 - 💡 Associate Consultant – **Data & AI**
-- 📊 Working on **Analytics, Fabric, Databricks, Delta Lake**
-- 🤖 Building **AI Assistants & Chatbots**
+- 📊 Microsoft Certified
+- 🤖 Building **AI Solutions & Analytics Solution**
 - ☁️ Cloud-first mindset
 
 ---
@@ -44,8 +44,7 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ruwanpathirana&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ruwanpathirana&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruwanpathirana&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
@@ -55,7 +54,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ruwanpathirana/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=ruwanpathirana&style=for-the-badge&color=0D76A8" />
 </p>
 
 <p align="center">
