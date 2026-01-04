@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 - 💡 Associate Consultant – **Data & AI**
-- 📊 Microsoft Certified
+- 📊 3X Microsoft Certified
 - 🤖 Building **AI Solutions & Analytics Solution**
 - ☁️ Cloud-first mindset
 
@@ -47,9 +47,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruwanpathirana&theme=tokyo-night&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruwanpathirana&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
